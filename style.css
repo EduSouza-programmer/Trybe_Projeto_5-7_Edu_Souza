@@ -1,0 +1,30 @@
+
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.wrapper {
+  max-width: 1080px;
+
+}
+
+.list {
+  cursor: pointer;
+}
+
+.list:hover {
+
+  border: 1px solid black;
+}
+
+.selected {
+  background-color: rgb(128, 128, 128);
+
+}
+
+.completed {
+
+  text-decoration: line-through;
+}
