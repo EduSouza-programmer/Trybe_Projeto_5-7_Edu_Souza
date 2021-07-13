@@ -66,7 +66,7 @@ Você deve desenvolver um site que permita a quem o utiliza criar uma listas de 
 
 ### Concluído :rocket:
 
-Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/Trybe_Projeto_5-6_Edu_Souza/).
+Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/Trybe_Projeto_5-7_Edu_Souza/).
 
 #
 ## :unlock: Licença
