@@ -48,7 +48,7 @@ Você deve desenvolver um site que permita a quem o utiliza criar uma listas de 
 
 ### :clipboard: Requisitos
 
-- <p><a href="#1"> :pushpin: 1.</a> Sua lista deve possuir o título "Minha Lista de Tarefas" em uma tag `<header>`. Esse título não varia de acordo com o conteúdo da lista.</p>
+- <p><a href="#1"> :pushpin: 1.</a> Sua lista deve possuir o título "Minha Lista de Tarefas" em uma tag `header`. Esse título não varia de acordo com o conteúdo da lista.</p>
 - <p><a href="#2"> :pushpin: 2.</a> Abaixo do título deve haver um pequeno e discreto parágrafo com `id="funcionamento"` e com o texto "Clique duas vezes em um item para marcá-lo como completo" explicando o funcionamento da lista para o usuário.</p>
 - <p><a href="#3"> :pushpin: 3.</a> Deve haver um `input` com o `id="texto-tarefa"` onde o usuário poderá digitar o nome do item que deseja adicionar à lista.</p>
 - <p><a href="#4"> :pushpin: 4.</a> Deve haver uma lista ordenada de tarefas com o `id="lista-tarefas"`.</p>
